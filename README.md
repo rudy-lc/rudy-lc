@@ -17,7 +17,67 @@ Front End Developer
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy-lc&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2049%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 63 Contributions in the Year 2021
+ > 
+> 📦 629 Bytes Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    23 commits     ████████░░░░░░░░░░░░░░░░░   34.85% 
+🌆 Daytime    38 commits     ██████████████░░░░░░░░░░░   57.58% 
+🌃 Evening    5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
 ```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
+Tuesday      8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+Wednesday    17 commits     ██████░░░░░░░░░░░░░░░░░░░   25.76% 
+Thursday     14 commits     █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+Friday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.15%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Vue** 
+
+```text
+Vue                      1 repo              █████████████████████████   100.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/rudy-lc/rudy-lc/main/charts/bar_graph.png) 
+
+
+ Last Updated on 29/12/2021
 <!--END_SECTION:waka-->
