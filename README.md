@@ -17,15 +17,13 @@ Front End Developer
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy-lc&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 65 Contributions in the Year 2021
  > 
-> 📦 634 Bytes Used in GitHub's Storage 
+> 📦 635 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
