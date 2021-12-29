@@ -17,41 +17,41 @@ Front End Developer
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy-lc&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 63 Contributions in the Year 2021
+> 🏆 65 Contributions in the Year 2021
  > 
-> 📦 629 Bytes Used in GitHub's Storage 
+> 📦 634 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    23 commits     ████████░░░░░░░░░░░░░░░░░   34.33% 
-🌆 Daytime    39 commits     ██████████████░░░░░░░░░░░   58.21% 
-🌃 Evening    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
+🌞 Morning    23 commits     ████████░░░░░░░░░░░░░░░░░   33.82% 
+🌆 Daytime    40 commits     ██████████████░░░░░░░░░░░   58.82% 
+🌃 Evening    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.35% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Tuesday      8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-Wednesday    18 commits     ██████░░░░░░░░░░░░░░░░░░░   26.87% 
-Thursday     14 commits     █████░░░░░░░░░░░░░░░░░░░░   20.9% 
-Friday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.93% 
+Monday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.29% 
+Tuesday      8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Wednesday    19 commits     ███████░░░░░░░░░░░░░░░░░░   27.94% 
+Thursday     14 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59% 
+Friday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.93%
+Sunday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71%
 
 ```
 
