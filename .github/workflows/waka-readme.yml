@@ -17,4 +17,4 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
-          IGNORED_REPOS: "flyme6-device-bacon, flyme6-device-h830, flyme6-device-oneplus3, Lenovo_G40_70M_EFI, Shinelon_YAO_7000"
+          SHOW_LOC_CHART: "False"
