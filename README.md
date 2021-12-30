@@ -17,13 +17,13 @@ Front End Developer
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy-lc&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-155-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 65 Contributions in the Year 2021
  > 
-> 📦 635 Bytes Used in GitHub's Storage 
+> 📦 637 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,7 +60,11 @@ Sunday       10 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               24 mins             ██████████░░░░░░░░░░░░░░░   40.81% 
+Markdown                 13 mins             █████░░░░░░░░░░░░░░░░░░░░   22.43% 
+Vue.js                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
+TypeScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.49%
 
 ```
 
@@ -73,5 +77,5 @@ Vue                      1 repo              ███████████�
 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
