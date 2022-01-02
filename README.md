@@ -23,7 +23,7 @@ Front End Developer
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 640 Bytes Used in GitHub's Storage 
+> 📦 641 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,5 +77,5 @@ Vue                      1 repo              ███████████�
 
 
 
- Last Updated on 01/01/2022
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
