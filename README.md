@@ -17,7 +17,7 @@ Front End Developer
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy-lc&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -60,11 +60,11 @@ Sunday       10 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   40.25% 
-Markdown                 1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   23.88% 
-JavaScript               44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64% 
-Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.29%
+TypeScript               2 hrs 37 mins       ███████████░░░░░░░░░░░░░░   46.4% 
+Vue.js                   1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   30.02% 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.35% 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.67%
 
 ```
 
@@ -77,5 +77,5 @@ Vue                      2 repos             ███████████�
 
 
 
- Last Updated on 25/01/2022 16:10:12 UTC
+ Last Updated on 26/01/2022 16:09:56 UTC
 <!--END_SECTION:waka-->
