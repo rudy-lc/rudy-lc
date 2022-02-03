@@ -17,7 +17,7 @@ Front End Developer
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy-lc&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,5 +77,5 @@ Vue                      2 repos             ███████████�
 
 
 
- Last Updated on 02/02/2022 16:10:01 UTC
+ Last Updated on 03/02/2022 16:10:03 UTC
 <!--END_SECTION:waka-->
