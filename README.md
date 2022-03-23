@@ -18,17 +18,17 @@ Front End Developer
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy-lc&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 4 Contributions in the Year 2022
+> 🏆 5 Contributions in the Year 2022
  > 
 > 📦 8.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -61,11 +61,11 @@ Sunday       10 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   38.43% 
-Vue.js                   4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   34.2% 
-JSON                     2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
-TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-GitIgnore file           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46%
+JavaScript               4 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   38.94% 
+Vue.js                   3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.53% 
+JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.29% 
+Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.39% 
+GitIgnore file           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.27%
 
 ```
 
@@ -78,5 +78,5 @@ Vue                      2 repos             ███████████�
 
 
 
- Last Updated on 20/03/2022 16:10:20 UTC
+ Last Updated on 23/03/2022 16:11:10 UTC
 <!--END_SECTION:waka-->
